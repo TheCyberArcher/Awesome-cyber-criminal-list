@@ -51,7 +51,7 @@
 | CONTI | | | |
 | LAPSUS$ | | | |
 | ARES | | | |
-| Lulzsec | | | | https://t.me/s/thelulzsec
+| Lulzsec | | | | | https://t.me/s/thelulzsec
 | 8BASE | | | |
 | TCG | | | |
 | Killnet | | | | | https://t.me/s/killnet_reservs

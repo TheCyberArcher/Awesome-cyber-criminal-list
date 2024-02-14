@@ -6,8 +6,6 @@
 
 >Please note however, this list does not contain the IOCs, below the table you will find links allowing you to analyze the data you have found and compare it with the known bases.
 
-<br />
-
 ---
 
 Check if you are compromised : 

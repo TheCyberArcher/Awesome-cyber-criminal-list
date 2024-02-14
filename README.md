@@ -13,7 +13,7 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | TCG | | |
 | Killnet | | |
 | DarkSide | Russia | |
-| BlackDragonSec | India | Indonesia |
+| BlackDragonSec | India | Indonesia | offensive security operations all across the globe
 | Kingsman | | |
 | Volt Typhoon | China | US |
 | Medusa | | |

@@ -51,10 +51,10 @@
 | CONTI | | | |
 | LAPSUS$ | | | |
 | ARES | | | |
-| Lulzsec | | | |
+| Lulzsec | | | | https://t.me/s/thelulzsec
 | 8BASE | | | |
 | TCG | | | |
-| Killnet | | | | https://t.me/s/killnet_reservs
+| Killnet | | | | | https://t.me/s/killnet_reservs
 | DarkSide | Russia | | |
 | BlackDragonSec | India | Indonesia | offensive security operations all across the globe | ddos | 	https://blackdragonsec.org/
 | Kingsman | | | |

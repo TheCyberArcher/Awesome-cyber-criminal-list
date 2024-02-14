@@ -13,45 +13,45 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | TCG | |
 | Killnet | |
 | DarkSide | Russia |
-| BlackDragonSec | India |
+| BlackDragonSec | India | Indonesia
 | Kingsman | |
-| Volt Typhoon | China |
+| Volt Typhoon | China | US 
 | Medusa | |
-| Cyber.Anarchy.Squad | Ukrainian group ? |
-| Anonymous Sudan | sudan, russia |
-| Arvin Club | Iran |
-| AgainstTheWest | |
-| Bl00dy ransomware gang | |
-| Blackshadow Hackers | Iran |
-| ThreatSec | Not in US |
-| GhostSec | |
-| Stormous | russia |
+| Cyber.Anarchy.Squad | Ukrainian group ? | Russian, Belarusian
+| Anonymous Sudan | sudan, russia | Sweden, Denmark, America, Australia, Israel
+| Arvin Club | Iran | India, Iran, Russia
+| AgainstTheWest | | China
+| Bl00dy ransomware gang | | US
+| Blackshadow Hackers | Iran | Israel
+| ThreatSec | Not in US | india 
+| GhostSec | | irak, syria, russia
+| Stormous | russia | India, Ukraine
 | Blackforums | |
-| SiegedSec | |
-| R00tk1t Cyber Team | Israel |
-| Anonymous Russia | Ukrainian group ? |
+| SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico
+| R00tk1t Cyber Team | Israel | South Africa, Malaysia
+| Anonymous Russia | Ukrainian group ? | Russia
 | DeltaBoys | Multiple location |
-| Shad0de | |
+| Shad0de | | France 
 | The Shadow Brokers | Russia |
-| Quartz Wolf | |
-| Lone Wolf | Lahore-based |
+| Quartz Wolf | | Russia
+| Lone Wolf | Lahore-based | Afghanistan, India
 | CyberToufan | Iran |
-| MalekTeam | Iran |
-| Cyber Aveng3rs | |
-| Five Families | |
-| ZulikGroup | Russia |
+| MalekTeam | Iran | Israel
+| Cyber Aveng3rs | | Israel
+| Five Families | | Brazil, cuba, taiwan, south africa
+| ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish
 | APT 34 | Iran |
-| KittenSec | |
-| Lazarus Group / APT38 | North Korean |
-| DragonForce Malaysia | Malaysia |
-| Cyb3r_Drag0nz_Team | Malaysia |
-| X7root | |
+| KittenSec | | Greece, France, Chile, Panama, Italy, US, romania
+| Lazarus Group / APT38 | North Korean | occidental countries
+| DragonForce Malaysia | Malaysia | Israel
+| Cyb3r_Drag0nz_Team | Malaysia | Israel
+| X7root | | Israel
 | Snatch Team | |
 | DeaDXInject | Russia |
-| ShadowHacker | |
+| ShadowHacker | | India
 | Breachforums | |
 | nohidespace | Russia |
-| MTB | Bangladesh |
-| Haghjhoyan / Peace Seekers | Iran |
-| YareGomnam | Iran |
+| MTB | Bangladesh | India, Israel
+| Haghjhoyan / Peace Seekers | Iran | Israel
+| YareGomnam | Iran | US
 | NoName057(16) | |

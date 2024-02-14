@@ -28,11 +28,11 @@
 | AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US | dataleaks on RaidForums
 | Bl00dy ransomware gang | | US | Financial motivation | LockBit ransomware
 | Blackshadow Hackers | Iran | Israel | Political motivation | Pay2Key ransomware , dataleaks
-| ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL | know username : Wiz
+| ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL | | know username : Wiz
 | GhostSec | | irak, syria, russia | The group wants to disrupt Islamist extremist movements, also financial motives | ransomware GhostLocker, payloads distribution
 | Stormous | russia | India, Ukraine | Pro-russian, political motivation | coordinated ddos attacks
 | Blackforums | | | |
-| SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | know username : cialulz
+| SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | | know username : cialulz
 | R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits
 | Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts
 | DeltaBoys | Multiple location | | exposing corrupt governments, hacker alliance | zero-day vulnerabilities and human error attacks.

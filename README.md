@@ -15,15 +15,15 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | DarkSide | Russia | |
 | BlackDragonSec | India | Indonesia | offensive security operations all across the globe
 | Kingsman | | |
-| Volt Typhoon | China | US |
+| Volt Typhoon | China | US | Chinese cyber operation team, spying
 | Medusa | | |
-| Cyber.Anarchy.Squad | Ukrainian group ? | Russian, Belarusian |
-| Anonymous Sudan | sudan, russia | Sweden, Denmark, America, Australia, Israel |
+| Cyber.Anarchy.Squad | Ukrainian group ? | Russian, Belarusian | political motivation, anarchist group ? 
+| Anonymous Sudan | sudan, russia | Sweden, Denmark, America, Australia, Israel | "anti-Muslim activity", religious or political motication, extremist ? 
 | Arvin Club | Iran | India, Iran, Russia |
-| AgainstTheWest | | China |
-| Bl00dy ransomware gang | | US |
-| Blackshadow Hackers | Iran | Israel |
-| ThreatSec | Not in US | india |
+| AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US
+| Bl00dy ransomware gang | | US | Financial motivation
+| Blackshadow Hackers | Iran | Israel | Political motivation
+| ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives
 | GhostSec | | irak, syria, russia |
 | Stormous | russia | India, Ukraine |
 | Blackforums | | |

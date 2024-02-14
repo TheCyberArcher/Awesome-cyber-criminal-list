@@ -38,8 +38,10 @@
 - [OpenFishFeeds](https://openphish.com/phishing_feeds.html)
 - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/profiles)
 
+<br />
 
-You can also use OSINT tools, [from my repository](https://github.com/TheCyberArcher/Super-Humint-Tools) or from the [Awesome-osint](https://github.com/jivoi/awesome-osint)
+
+You can also use OSINT tools, [from my repository](https://github.com/TheCyberArcher/Super-Humint-Tools) or from the [Awesome-osint](https://github.com/jivoi/awesome-osint) \
 More information about CTI : [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 ---

@@ -52,7 +52,7 @@
 | APT 34 | Iran | | | malware distributor, Excel macros and PowerShell-based exploits
 | KittenSec | | Greece, France, Chile, Panama, Italy, US, romania | hacktivist and anarchist group, motivated by a desire to expose corruption | dataleaks
 | Lazarus Group / APT38 | North Korean | occidental countries | spying, financial, political motives | ransomware
-| DragonForce Malaysia | Malaysia | Israel | pro-Palestinian group | ddos, defacement attacks
+| DragonForce Malaysia | Malaysia | Israel | pro-Palestinian group | ddos, defacement attacks | https://t.me/dragonforceio
 | Cyb3r_Drag0nz_Team | Malaysia | Israel | pro-Palestinian group | defacement attacks | https://t.me/Cyb3r_Drag0nz
 | X7root | | Israel | anti-Israel group |  defacement attacks, dataleaks | https://t.me/s/x7seller
 | Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks | https://t.me/s/snatch_news?before=115 | know username : Truniger

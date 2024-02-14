@@ -57,7 +57,7 @@
 | X7root | | Israel | anti-Israel group |  defacement attacks
 | Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks | | know username : Truniger
 | DeaDXInject | Russia | | Pro-russia hacktivist | AiDLocker Ransomware
-| ShadowHacker | | India | web application exploits, se, phishing | | https://t.me/s/shadowleakss?before=135 | 
+| ShadowHacker | | India | | web application exploits, se, phishing | | https://t.me/s/shadowleakss?before=135 | 
 | Breachforums | | | Financial motivation | dataleaks sales and hacker exchange | https://breachforums.is/ | know uername :  Baphomet
 | nohidespace | Russia | | Financial motivation | Combolist Sales | https://nohide.space
 | MTB | Bangladesh | India, Israel | Religious and political motives | ddos

@@ -54,18 +54,7 @@ nohidespace
 MTB
 Haghjhoyan / Peace Seekers
 YareGomnam
-NoName057(16)
-
-
-| 
-
-
-
-
-
-
-
-Russia
+NoName057(16) | Russia
 India
 
 China
@@ -108,4 +97,5 @@ Bangladesh
 Iran
 Iran
 
-|
+
+ |

@@ -54,7 +54,7 @@
 | Lazarus Group / APT38 | North Korean | occidental countries | spying, financial, political motives | ransomware
 | DragonForce Malaysia | Malaysia | Israel | pro-Palestinian group | ddos, defacement attacks
 | Cyb3r_Drag0nz_Team | Malaysia | Israel | pro-Palestinian group | defacement attacks
-| X7root | | Israel | anti-Israel group |  defacement attacks
+| X7root | | Israel | anti-Israel group |  defacement attacks, dataleaks | https://t.me/s/x7seller
 | Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks | https://t.me/s/snatch_news?before=115 | know username : Truniger
 | DeaDXInject | Russia | | Pro-russia hacktivist | AiDLocker Ransomware
 | ShadowHacker | | India | | web application exploits, se, phishing | https://t.me/s/shadowleakss?before=135 | 

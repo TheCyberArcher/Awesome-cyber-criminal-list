@@ -46,7 +46,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 
 ---
 
-### Active Hackers Groups List :
+### Active Hackers Group List :
 
 >Here is the list of active cybercriminal groups, this table is updated manually after research and cross-referencing of sources, the aim being to get as close as possible to the truth. The information may turn out to be inaccurate despite the profiling work carried out.
 

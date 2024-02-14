@@ -12,8 +12,9 @@
 
 Check if you are compromised : 
 
-- [HIBP](https://haveibeenpwned.com/) (check if email is compromised)
+- [HIBP](https://haveibeenpwned.com/) (check if email is compromised) 
 - [IntelX](https://intelx.io/) (check if your data is present)
+- [DeHashed](https://dehashed.com/) (check if your data is present)
 
 <br />
 

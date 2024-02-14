@@ -86,3 +86,4 @@
 - [Talos](https://www.talosintelligence.com/reputation)
 - [ExploitAlert](https://www.exploitalert.com/browse-exploit.html)
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+- [OpenFishFeeds](https://openphish.com/phishing_feeds.html)

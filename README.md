@@ -48,7 +48,7 @@
 | MalekTeam | Iran | Israel | Religious and political motives | dataleaks | https://malekteam.ac/
 | Cyber Aveng3rs | | Israel | Political and financial motivation | ransomware
 | Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware | | know username : Wiz
-| ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering.
+| ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering | https://t.me/ZulikGroupTG
 | APT 34 | Iran | | | malware distributor, Excel macros and PowerShell-based exploits
 | KittenSec | | Greece, France, Chile, Panama, Italy, US, romania | hacktivist and anarchist group, motivated by a desire to expose corruption | dataleaks | https://t.me/kittensec
 | Lazarus Group / APT38 | North Korean | occidental countries | spying, financial, political motives | ransomware

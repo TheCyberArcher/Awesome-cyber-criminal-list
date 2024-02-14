@@ -1,7 +1,5 @@
 # Awesome-cyber-criminal-list
 
----
-
 <br />
 
 >This page aims to list active groups in cyberspace that are recent and possibly still active. The motivations and target countries are present, the methodology as well as the links to Telegram channels or sites found on the internet. The goal is to provide an easily searchable list for your digital monitoring and asset protection.

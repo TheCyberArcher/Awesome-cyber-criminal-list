@@ -49,7 +49,7 @@
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |
 | CONTI | | | |
-| LAPSUS$ | | | |
+| LAPSUS$ | | | | https://t.me/minsaudebr
 | ARES | | | |
 | Lulzsec | | | | | https://t.me/s/thelulzsec
 | 8BASE | | | |

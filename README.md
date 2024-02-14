@@ -37,7 +37,7 @@
 | Stormous | russia | India, Ukraine | Pro-russian, political motivation | coordinated ddos attacks
 | Blackforums | | | |
 | SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | | know username : cialulz
-| R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits
+| R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits | https://t.me/s/R00TK1TOFF
 | Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts
 | DeltaBoys | Multiple location | | exposing corrupt governments, hacker alliance | zero-day vulnerabilities and human error attacks.
 | Shad0de | | France | | data leaks, ransomware, exfiltration | https://t.me/s/xxShad0dexx?before=307

@@ -3,5 +3,5 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 
 
 
-| Command | Description |
-| --- | --- |
+| Command | Description | x | x | x | x | x |
+| --- | --- |--- | --- | --- | --- | --- |

@@ -40,13 +40,13 @@
 | R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits
 | Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts
 | DeltaBoys | Multiple location | | exposing corrupt governments, hacker alliance | zero-day vulnerabilities and human error attacks.
-| Shad0de | | France | | data leaks, ransomware, exfiltration 
-| The Shadow Brokers | Russia | | | zero-day exploits, hacking tools delivery
-| Quartz Wolf | | Russia | | Phishing, malware delivery
+| Shad0de | | France | | data leaks, ransomware, exfiltration | https://t.me/s/xxShad0dexx?before=307
+| The Shadow Brokers | Russia | | | zero-day exploits, hacking tools delivery | https://t.me/s/xtheshadowbrokers
+| Quartz Wolf | | Russia | | Phishing, malware delivery | https://t.me/quartzbotnet
 | Lone Wolf | Lahore-based | Afghanistan, India | | Trojan, remote access hack, fake company, credential stealer
-| CyberToufan | Iran | | | data exfiltration, leaks, phishing
+| CyberToufan | Iran | | | data exfiltration, leaks, phishing | https://t.me/s/CyberToufanBackup
 | MalekTeam | Iran | Israel | Religious and political motives | dataleaks | https://malekteam.ac/
-| Cyber Aveng3rs | | Israel | Political and financial motivation | ransomware
+| Cyber Aveng3rs | | Israel | Political and financial motivation | ransomware | https://t.me/cyberaveng3rs
 | Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware | | know username : Wiz
 | ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering | https://t.me/ZulikGroupTG
 | APT 34 | Iran | | | malware distributor, Excel macros and PowerShell-based exploits

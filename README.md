@@ -5,7 +5,55 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 
 | Command | Description | x | x | x | x | x |
 | --- | --- |--- | --- | --- | --- | --- |
-|  CONTI
+|  CONTI | 
+
+
+
+
+
+
+Russia
+India
+
+China
+
+Ukrainian group ? 
+sudan, russia
+Iran
+
+
+Iran
+Not in US
+
+russia
+
+
+Israel
+Ukrainian group ? 
+Multiple
+
+Russia
+
+Lahore-based
+Iran
+Iran
+
+
+Russia
+Iran
+
+North Korean
+Malaysia
+Malaysia
+
+
+Russia
+
+
+Russia
+Bangladesh
+Iran
+Iran
 LAPSUS$
 ARES
 Lulzsec
@@ -54,48 +102,4 @@ nohidespace
 MTB
 Haghjhoyan / Peace Seekers
 YareGomnam
-NoName057(16) | Russia
-India
-
-China
-
-Ukrainian group ? 
-sudan, russia
-Iran
-
-
-Iran
-Not in US
-
-russia
-
-
-Israel
-Ukrainian group ? 
-Multiple
-
-Russia
-
-Lahore-based
-Iran
-Iran
-
-
-Russia
-Iran
-
-North Korean
-Malaysia
-Malaysia
-
-
-Russia
-
-
-Russia
-Bangladesh
-Iran
-Iran
-
-
- |
+NoName057(16) 

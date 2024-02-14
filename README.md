@@ -1,7 +1,12 @@
 # cyber-criminal-group-list
-List of cybercriminal and hacker groups spotted, addition of operating mode, motivations, targets and geographic location. This list is the result of extensive internet research and the use of known feeds. This list is for informational purposes and does not present IOCs
 
+<br />
 
+>This page aims to list active groups in cyberspace that are recent and possibly still active. The motivations and target countries are present, the methodology as well as the links to Telegram channels or sites found on the internet. The goal is to provide an easily searchable list for your digital monitoring and asset protection.
+
+>Please note however, this list does not contain the IOCs, below the table you will find links allowing you to analyze the data you have found and compare it with the known bases.
+
+<br />
 
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |

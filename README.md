@@ -43,7 +43,7 @@
 | CyberToufan | Iran | | | data exfiltration, leaks, phishing
 | MalekTeam | Iran | Israel | Religious and political motives | dataleaks | https://malekteam.ac/
 | Cyber Aveng3rs | | Israel | Political and financial motivation | ransomware
-| Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware | know username : Wiz
+| Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware | | know username : Wiz
 | ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering.
 | APT 34 | Iran | | | malware distributor, Excel macros and PowerShell-based exploits
 | KittenSec | | Greece, France, Chile, Panama, Italy, US, romania | hacktivist and anarchist group, motivated by a desire to expose corruption | dataleaks
@@ -51,10 +51,10 @@
 | DragonForce Malaysia | Malaysia | Israel | pro-Palestinian group | ddos, defacement attacks
 | Cyb3r_Drag0nz_Team | Malaysia | Israel | pro-Palestinian group | defacement attacks
 | X7root | | Israel | anti-Israel group |  defacement attacks
-| Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks | know username : Truniger
+| Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks | | know username : Truniger
 | DeaDXInject | Russia | | Pro-russia hacktivist | AiDLocker Ransomware
 | ShadowHacker | | India | web application exploits, se, phishing
-| Breachforums | | | Financial motivation | dataleaks sales and hacker exchange | https://breachforums.is/ | know uername :  Baphomet
+| Breachforums | | | Financial motivation | dataleaks sales and hacker exchange | https://breachforums.is/ | | know uername :  Baphomet
 | nohidespace | Russia | | Financial motivation | Combolist Sales | https://nohide.space
 | MTB | Bangladesh | India, Israel | Religious and political motives | ddos
 | Haghjhoyan / Peace Seekers | Iran | Israel | Pro-Iran hacktivist group | se, vnc hack, trojan infection

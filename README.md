@@ -16,9 +16,11 @@
 - [IntelX](https://intelx.io/) (check if your data is present)
 - [DeHashed](https://dehashed.com/) (check if your data is present)
 
-<br />
+---
 
-### Actives Hacker Groups
+### Actives Hacker Groups :
+
+<br />
 
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |

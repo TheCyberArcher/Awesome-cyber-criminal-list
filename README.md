@@ -13,10 +13,10 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | TCG | | | |
 | Killnet | | | |
 | DarkSide | Russia | | |
-| BlackDragonSec | India | Indonesia | offensive security operations all across the globe | ddos |
+| BlackDragonSec | India | Indonesia | offensive security operations all across the globe | ddos | 	https://blackdragonsec.org/
 | Kingsman | | | |
 | Volt Typhoon | China | US | Chinese cyber operation team, spying | exploit on unpatched network devices
-| Medusa | | | | ransomware, MedusaLocker, phishing, privilege escalation, evasion, exfiltration
+| Medusa | | | | ransomware, MedusaLocker, phishing, privilege escalation, evasion, exfiltration | 	 http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion/
 | Cyber.Anarchy.Squad | Ukrainian group ? | Russian, Belarusian | political motivation, anarchist group ? | dataleak
 | Anonymous Sudan | sudan, russia | Sweden, Denmark, America, Australia, Israel | "anti-Muslim activity", religious or political motication, extremist ? | ddos,  HTTP attacks, 
 | Arvin Club | Iran | India, Iran, Russia | | ransomware, data exfiltration
@@ -36,7 +36,7 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | Quartz Wolf | | Russia | | Phishing, malware delivery
 | Lone Wolf | Lahore-based | Afghanistan, India | | Trojan, remote access hack, fake company, credential stealer
 | CyberToufan | Iran | | | data exfiltration, leaks, phishing
-| MalekTeam | Iran | Israel | Religious and political motives | dataleaks
+| MalekTeam | Iran | Israel | Religious and political motives | dataleaks | https://malekteam.ac/
 | Cyber Aveng3rs | | Israel | Political and financial motivation | ransomware
 | Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware
 | ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering.
@@ -49,9 +49,9 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks
 | DeaDXInject | Russia | | Pro-russia hacktivist | AiDLocker Ransomware
 | ShadowHacker | | India | web application exploits, se, phishing
-| Breachforums | | | Financial motivation | dataleaks sales and hacker exchange
-| nohidespace | Russia | | Financial motivation | Combolist Sales
+| Breachforums | | | Financial motivation | dataleaks sales and hacker exchange | https://breachforums.is/
+| nohidespace | Russia | | Financial motivation | Combolist Sales | https://nohide.space
 | MTB | Bangladesh | India, Israel | Religious and political motives | ddos
 | Haghjhoyan / Peace Seekers | Iran | Israel | Pro-Iran hacktivist group | se, vnc hack, trojan infection
-| YareGomnam | Iran | US | pro-Iranian group
-| NoName057(16) | | |
+| YareGomnam | Iran | US | pro-Iranian group |
+| NoName057(16) | | | 

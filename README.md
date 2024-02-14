@@ -23,11 +23,11 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US | dataleaks on RaidForums
 | Bl00dy ransomware gang | | US | Financial motivation | LockBit ransomware
 | Blackshadow Hackers | Iran | Israel | Political motivation | Pay2Key ransomware , dataleaks
-| ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL
+| ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL | know username : Wiz
 | GhostSec | | irak, syria, russia | The group wants to disrupt Islamist extremist movements, also financial motives | ransomware GhostLocker, payloads distribution
 | Stormous | russia | India, Ukraine | Pro-russian, political motivation | coordinated ddos attacks
 | Blackforums | | | |
-| SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS
+| SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | know username : cialulz
 | R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits
 | Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts
 | DeltaBoys | Multiple location | | exposing corrupt governments, hacker alliance | zero-day vulnerabilities and human error attacks.
@@ -38,7 +38,7 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | CyberToufan | Iran | | | data exfiltration, leaks, phishing
 | MalekTeam | Iran | Israel | Religious and political motives | dataleaks | https://malekteam.ac/
 | Cyber Aveng3rs | | Israel | Political and financial motivation | ransomware
-| Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware
+| Five Families | | Brazil, cuba, taiwan, south africa | Hacker alliance, hacktivists | website hacking, dataleaks, XSS, XXE, SQL injection, ransomware | know username : Wiz
 | ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering.
 | APT 34 | Iran | | | malware distributor, Excel macros and PowerShell-based exploits
 | KittenSec | | Greece, France, Chile, Panama, Italy, US, romania | hacktivist and anarchist group, motivated by a desire to expose corruption | dataleaks
@@ -46,10 +46,10 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 | DragonForce Malaysia | Malaysia | Israel | pro-Palestinian group | ddos, defacement attacks
 | Cyb3r_Drag0nz_Team | Malaysia | Israel | pro-Palestinian group | defacement attacks
 | X7root | | Israel | anti-Israel group |  defacement attacks
-| Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks
+| Snatch Team | | | Financial motivation | Snatch Ransomware,  brute-force attacks | know username : Truniger
 | DeaDXInject | Russia | | Pro-russia hacktivist | AiDLocker Ransomware
 | ShadowHacker | | India | web application exploits, se, phishing
-| Breachforums | | | Financial motivation | dataleaks sales and hacker exchange | https://breachforums.is/
+| Breachforums | | | Financial motivation | dataleaks sales and hacker exchange | https://breachforums.is/ | know uername :  Baphomet
 | nohidespace | Russia | | Financial motivation | Combolist Sales | https://nohide.space
 | MTB | Bangladesh | India, Israel | Religious and political motives | ddos
 | Haghjhoyan / Peace Seekers | Iran | Israel | Pro-Iran hacktivist group | se, vnc hack, trojan infection

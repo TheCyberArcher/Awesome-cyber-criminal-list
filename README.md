@@ -93,3 +93,4 @@
 - [ExploitAlert](https://www.exploitalert.com/browse-exploit.html)
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 - [OpenFishFeeds](https://openphish.com/phishing_feeds.html)
+- [Ransomwatch](https://ransomwatch.telemetry.ltd/#/profiles)

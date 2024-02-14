@@ -3,7 +3,7 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 
 
 
-| Group | Country | x | x | x | x | x |
+| Group | Country | Know impacted Target | Motivation | Method / Malwares | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |
 | CONTI | | |
 | LAPSUS$ | | |

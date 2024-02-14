@@ -4,7 +4,8 @@ List of cybercriminal and hacker groups spotted, addition of operating mode, mot
 
 
 | Command | Description | x | x | x | x | x |
-| CONTI
+| --- | --- |--- | --- | --- | --- | --- |
+|  CONTI
 LAPSUS$
 ARES
 Lulzsec
@@ -53,4 +54,4 @@ nohidespace
 MTB
 Haghjhoyan / Peace Seekers
 YareGomnam
-NoName057(16) | --- |--- | --- | --- | --- | --- |
+NoName057(16) |  |

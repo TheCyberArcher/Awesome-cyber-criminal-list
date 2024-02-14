@@ -1,4 +1,4 @@
-# cyber-criminal-group-list
+# Awesome-cyber-criminal-list
 
 <br />
 

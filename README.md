@@ -42,6 +42,8 @@
 
 ### Actives Hackers Groups List :
 
+>Here is the list of active cybercriminal groups, this table is updated manually after research and cross-referencing of sources, the aim being to get as close as possible to the truth. The information may turn out to be inaccurate despite the profiling work carried out.
+
 <br />
 
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |

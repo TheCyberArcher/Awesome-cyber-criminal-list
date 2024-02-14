@@ -44,6 +44,8 @@
 
 >Here is the list of active cybercriminal groups, this table is updated manually after research and cross-referencing of sources, the aim being to get as close as possible to the truth. The information may turn out to be inaccurate despite the profiling work carried out.
 
+>I advise you to particularly monitor the groups listed in order to obtain any vital information, some operate in a grouped manner, you may be able to plan and prepare your defense in the event of an attack targeting your perimeter.
+
 <br />
 
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |

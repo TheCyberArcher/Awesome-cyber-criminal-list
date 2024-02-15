@@ -114,5 +114,6 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Tonto Team  | China | South Korea, Japan, Taiwan | political motivation | EternalBlue exploits, malicious dll | --- | --- |
 | APT29 / IRON RITUAL  | Russia | Government, NATO | political motivation, spying | multiple | --- | --- |
 | 0ktapus  |  |  |  | social engineering, phishing | --- | --- |
+| Sandworm Team | Russia |  | Probably related to Russia's GRU | brutte force, malware dev, ddos, phishing, exploits | --- | --- |
 
 <br />

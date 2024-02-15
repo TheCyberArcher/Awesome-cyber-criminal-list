@@ -112,6 +112,6 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 |  Wizard Spider  | russia | Government | not defined, financial motivation ? | ransomware (ryuk, conti Trickbot...) | --- | --- |
 | ZIRCONIUM | China | china | political motivation | phishing, dropbox C2, exploits, malwares | --- | --- |
 | Tonto Team  | China | South Korea, Japan, Taiwan | political motivation | EternalBlue exploits, malicious dll | --- | --- |
-
+| APT29 / IRON RITUAL  | Russia | Government, NATO | political motivation, spying | multiple | --- | --- |
 
 <br />

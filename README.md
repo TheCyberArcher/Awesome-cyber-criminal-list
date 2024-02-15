@@ -117,6 +117,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Sandworm Team | Russia |  | Probably related to Russia's GRU | brutte force, malware dev, ddos, phishing, exploits | --- | --- |
 | POLONIUM | Lebanon-based | Israel | Probably related to Iran MOIS | Onedrive and Dropbox C2, fake websites, phishing | --- | --- |
 | Moses Staff |  | Israel | spying | PyDCrypt malware, bootkit, StrifeWater trojan | https://t.me/s/moses_staff_se2 | --- |
+| Metador | probably Spanish | Middle East, Africa | spying |  | C2, wmi, PS scripts, metaMain Mafalda malwares | --- |
 
 
 <br />

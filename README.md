@@ -121,5 +121,6 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | LuminousMoth | China | Philippines, Thailand, Asia | spying | C2, malicious dll, data exfiltration, malwares|  | --- |
 | Pinchy Spider |  | | Financial motivation | phishing, ransomware GandCrab, REvil|  | --- |
 | Ember Bear  | Russian | Ukrainian | | defacement attacks |  | --- |
+| AQUATIC PANDA  | China |  | Industrial espionage | Log4Shell attacks, njRAT payloads |  | --- |
 
 <br />

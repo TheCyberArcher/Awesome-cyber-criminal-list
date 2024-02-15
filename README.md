@@ -77,7 +77,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL | https://t.me/s/threatsec?before=155 | know username : Wiz
 | GhostSec | | irak, syria, russia | The group wants to disrupt Islamist extremist movements, also financial motives | ransomware GhostLocker, payloads distribution | https://t.me/s/ghostsecc/168
 | Stormous | russia | India, Ukraine | Pro-russian, political motivation | coordinated ddos attacks, ransomware | https://t.me/s/STORMOUS_HACKER?before=2671
-| Blackforums | | | old darkweb forum, now with five F group, finalcial motivation | Illegal sales | | https://t.me/blackforumsarchive
+| Blackforums | | | old darkweb forum, now with five F group, financial motivation | Illegal sales | | https://t.me/blackforumsarchive
 | SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | https://t.me/s/SiegedSecurity | know username : cialulz
 | R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits | https://t.me/s/R00TK1TOFF
 | Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts

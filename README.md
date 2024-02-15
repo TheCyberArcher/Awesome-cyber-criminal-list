@@ -37,6 +37,7 @@
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 - [OpenFishFeeds](https://openphish.com/phishing_feeds.html)
 - [Ransomwatch](https://ransomwatch.telemetry.ltd/#/profiles)
+- [Checkpoint](https://www.checkpoint.com/)
 
 <br />
 

@@ -94,7 +94,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | ZulikGroup | Russia | Lithuanian, Estonian, Ukrainian,Polish | Political motivation | phishing, malware, network attacks, and social engineering | https://t.me/ZulikGroupTG
 | APT 34 | Iran | | | malware distributor, Excel macros and PowerShell-based exploits
 | KittenSec | | Greece, France, Chile, Panama, Italy, US, romania | hacktivist and anarchist group, motivated by a desire to expose corruption | dataleaks | https://t.me/kittensec
-| Lazarus Group / APT38 | North Korean | occidental countries | spying, financial, political motives | ransomware, NineRAT malware | 
+| Lazarus Group / APT38 | North Korean | occidental countries | spying, financial, political motives | ransomware, Log4j, NineRAT malware | 
 | DragonForce Malaysia | Malaysia | Israel | pro-Palestinian group | ddos, defacement attacks | https://t.me/dragonforceio
 | Cyb3r_Drag0nz_Team | Malaysia | Israel | pro-Palestinian group | defacement attacks | https://t.me/Cyb3r_Drag0nz
 | X7root | | Israel | anti-Israel group |  defacement attacks, dataleaks | https://t.me/s/x7seller

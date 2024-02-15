@@ -56,7 +56,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |
-| CONTI | | | |
+| CONTI | russia | multiple | cyber-terrorism, financial motivation | ransomware (Ryuk usage), dataleaks, phishing, RDP hacking | Rocket.Chat usage |
 | LAPSUS$ | | | | | https://t.me/minsaudebr
 | ARES | | | |
 | Lulzsec | | | | | https://t.me/s/thelulzsec

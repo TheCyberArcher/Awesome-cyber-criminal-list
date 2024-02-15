@@ -104,7 +104,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | nohidespace | Russia | | Financial motivation | Combolist Sales | https://nohide.space
 | MTB | Bangladesh | India, Israel | Religious and political motives | ddos | https://t.me/s/mysteriousteambangladesh
 | Haghjhoyan / Peace Seekers | Iran | Israel | Pro-Iran hacktivist group | se, vnc hack, trojan infection
-| YareGomnam | Iran | US | pro-Iranian group |
+| YareGomnam | Iran | US | pro-Iranian group | | https://t.me/YareGomnam_IRGC
 | NoName057(16) | | | 
 | IT Army of Ukraine | Ukrainian, international actors | Russia | cyberwarfare organisation | ddos, defacements,leaks, hacking | https://telegram.me/s/itarmyofukraine2022 
 <br />

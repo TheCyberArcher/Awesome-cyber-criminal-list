@@ -58,7 +58,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | --- | --- |--- | --- | --- | --- | --- |
 | CONTI | russia | multiple | cyber-terrorism, financial motivation | ransomware (Ryuk usage), dataleaks, phishing, RDP hacking | Rocket.Chat usage |
 | LAPSUS$ | | Government, tech compagny| financial motivation | social engineering, MFA fatigue, ransomware, exploits | https://t.me/minsaudebr
-| ARES | | | |
+| ARES | | | | Ares Rootkit, Trojan |
 | Lulzsec | | | | | https://t.me/s/thelulzsec
 | 8BASE | Finland ? | | “honest and simple pentesters” | ransomware, dataleaks | gitlab[.]com/jcube-group/clients/apex/8base-v2 - 95.216.51[.]74 - https://t.me/eightbase
 | TCG | | | |
@@ -71,12 +71,12 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Cyber.Anarchy.Squad | Ukrainian group ? | Russian, Belarusian | political motivation, anarchist group ? | dataleak | https://t.me/s/cyber_anarchy_squad
 | Anonymous Sudan | sudan, russia | Sweden, Denmark, America, Australia, Israel | "anti-Muslim activity", religious or political motication, extremist ? | ddos,  HTTP attacks | https://t.me/s/xAnonymousSudan
 | Arvin Club | Iran | India, Iran, Russia | | ransomware, data exfiltration | https://t.me/s/arvinclub1
-| AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US | dataleaks on RaidForums
+| AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US | dataleaks on RaidForums | 
 | Bl00dy ransomware gang | | US | Financial motivation | LockBit ransomware | https://t.me/bl00dy_Ransomware_Gang
 | Blackshadow Hackers | Iran | Israel | Political motivation | Pay2Key ransomware , dataleaks
 | ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL | https://t.me/s/threatsec?before=155 | know username : Wiz
 | GhostSec | | irak, syria, russia | The group wants to disrupt Islamist extremist movements, also financial motives | ransomware GhostLocker, payloads distribution | https://t.me/s/ghostsecc/168
-| Stormous | russia | India, Ukraine | Pro-russian, political motivation | coordinated ddos attacks
+| Stormous | russia | India, Ukraine | Pro-russian, political motivation | coordinated ddos attacks, ransomware | https://t.me/s/STORMOUS_HACKER?before=2671
 | Blackforums | | | |
 | SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | https://t.me/s/SiegedSecurity | know username : cialulz
 | R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits | https://t.me/s/R00TK1TOFF

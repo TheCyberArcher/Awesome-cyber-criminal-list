@@ -120,6 +120,6 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Metador | probably Spanish | Middle East, Africa | spying | C2, wmi, PS scripts, metaMain Mafalda malwares |  | --- |
 | LuminousMoth | China | Philippines, Thailand, Asia | spying | C2, malicious dll, data exfiltration, malwares|  | --- |
 | Pinchy Spider |  | | Financial motivation | phishing, ransomware GandCrab, REvil|  | --- |
-
+| Ember Bear  | Russian | Ukrainian | | defacement attacks |  | --- |
 
 <br />

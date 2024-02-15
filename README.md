@@ -71,7 +71,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Cyber.Anarchy.Squad | Ukrainian group ? | Russian, Belarusian | political motivation, anarchist group ? | dataleak | https://t.me/s/cyber_anarchy_squad
 | Anonymous Sudan | sudan, russia | Sweden, Denmark, America, Australia, Israel | "anti-Muslim activity", religious or political motication, extremist ? | ddos,  HTTP attacks | https://t.me/s/xAnonymousSudan
 | Arvin Club | Iran | India, Iran, Russia | | ransomware, data exfiltration | https://t.me/s/arvinclub1
-| AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US | dataleaks on RaidForums | 
+| AgainstTheWest | | China | Political motivation, targets communist systems, Provided information to NATO and US | dataleaks on RaidForums | https://github.com/AgainstTheWest/
 | Bl00dy ransomware gang | | US | Financial motivation | LockBit ransomware | https://t.me/bl00dy_Ransomware_Gang
 | Blackshadow Hackers | Iran | Israel | Political motivation | Pay2Key ransomware , dataleaks
 | ThreatSec | Not in US | india | hacktivist group, pseudo-ethical motives | ddos attacks, system intrusion, webpage defacement, dataleaks, XSS, XML, XXE et SQL | https://t.me/s/threatsec?before=155 | know username : Wiz

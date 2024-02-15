@@ -60,7 +60,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | LAPSUS$ | | | | | https://t.me/minsaudebr
 | ARES | | | |
 | Lulzsec | | | | | https://t.me/s/thelulzsec
-| 8BASE | | | |
+| 8BASE | Finland ? | | “honest and simple pentesters” | ransomware, dataleaks | gitlab[.]com/jcube-group/clients/apex/8base-v2 - 95.216.51[.]74 - https://t.me/eightbase
 | TCG | | | |
 | Killnet | | | | | https://t.me/s/killnet_reservs
 | DarkSide | Russia | | |

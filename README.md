@@ -106,5 +106,5 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Haghjhoyan / Peace Seekers | Iran | Israel | Pro-Iran hacktivist group | se, vnc hack, trojan infection
 | YareGomnam | Iran | US | pro-Iranian group |
 | NoName057(16) | | | 
-
+| IT Army of Ukraine | Ukrainian, international actors | Russia | cyberwarfare organisation | ddos, defacements,leaks, hacking | https://telegram.me/s/itarmyofukraine2022 
 <br />

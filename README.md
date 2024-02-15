@@ -62,7 +62,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Lulzsec | | | | | https://t.me/s/thelulzsec
 | 8BASE | Finland ? | | “honest and simple pentesters” | ransomware, dataleaks | gitlab[.]com/jcube-group/clients/apex/8base-v2 - 95.216.51[.]74 - https://t.me/eightbase
 | TCG | | | |
-| Killnet | | | | | https://t.me/s/killnet_reservs
+| Killnet | russia | Ukrainian | Russian patriots, pro-Kremlin | ddos, defacement | https://t.me/s/killnet_reservs
 | DarkSide | Russia | | |
 | BlackDragonSec | India | Indonesia | offensive security operations all across the globe | ddos | 	https://blackdragonsec.org/
 | Kingsman | | | |

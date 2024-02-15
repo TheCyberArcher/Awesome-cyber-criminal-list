@@ -62,7 +62,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | TheLulzsec | | | not defined, new group | | https://t.me/s/thelulzsec
 | 8BASE | Finland ? | | “honest and simple pentesters” | ransomware, dataleaks | gitlab[.]com/jcube-group/clients/apex/8base-v2 - 95.216.51[.]74 - https://t.me/eightbase
 | TCG | | | |
-| Killnet | russia | Ukrainian | Russian patriots, pro-Kremlin | ddos, defacement | https://t.me/s/killnet_reservs
+| Killnet | russia | Ukrainian | Russian patriots, pro-Kremlin | ddos, defacement | https://t.me/s/killnet_reservs | know username : Raty’s - real name : Arseni Yeliseyeu
 | DarkSide | Russia | | |
 | BlackDragonSec | India | Indonesia | offensive security operations all across the globe | ddos | 	https://blackdragonsec.org/
 | Kingsman | | | |

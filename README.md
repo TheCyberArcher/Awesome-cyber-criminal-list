@@ -57,7 +57,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |
 | CONTI | russia | multiple | cyber-terrorism, financial motivation | ransomware (Ryuk usage), dataleaks, phishing, RDP hacking | Rocket.Chat usage |
-| LAPSUS$ | | Government, tech compagny| | social engineering, MFA fatigue, ransomware, exploits | https://t.me/minsaudebr
+| LAPSUS$ | | Government, tech compagny| financial motivation | social engineering, MFA fatigue, ransomware, exploits | https://t.me/minsaudebr
 | ARES | | | |
 | Lulzsec | | | | | https://t.me/s/thelulzsec
 | 8BASE | Finland ? | | “honest and simple pentesters” | ransomware, dataleaks | gitlab[.]com/jcube-group/clients/apex/8base-v2 - 95.216.51[.]74 - https://t.me/eightbase

@@ -81,7 +81,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Blackforums | | | old darkweb forum, now with five F group, financial motivation | Illegal hacking services | https://t.me/blackforumsarchive
 | SiegedSec | | India, Pakistan, Indonesia, South Africa, USA, Philippines, Costa Rica, Mexico | Anarchist group ? Apolitical ? | dataleak, defacement, SQL injection, XSS | https://t.me/s/SiegedSecurity | know username : cialulz
 | R00tk1t Cyber Team | Israel | South Africa, Malaysia | pro-Israelian group | dataleak, defacement, exploits | https://t.me/s/R00TK1TOFF
-| Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts
+| Anonymous Russia | Ukrainian group ? | Russia | Political motivation, related to Ukrainian Conflict | MeowBot attack, malicious scripts | https://t.me/anon_by1
 | DeltaBoys | Multiple location | | exposing corrupt governments, hacker alliance | zero-day vulnerabilities and human error attacks.
 | Shad0de | | France | | data leaks, ransomware, exfiltration | https://t.me/s/xxShad0dexx?before=307
 | The Shadow Brokers | Russia | | | zero-day exploits, hacking tools delivery | https://t.me/s/xtheshadowbrokers

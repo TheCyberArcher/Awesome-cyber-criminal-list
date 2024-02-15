@@ -63,7 +63,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | 8BASE | Finland ? | | “honest and simple pentesters” | ransomware, dataleaks | gitlab[.]com/jcube-group/clients/apex/8base-v2 - 95.216.51[.]74 - https://t.me/eightbase
 | TCG | | | |
 | Killnet | russia | Ukrainian | Russian patriots, pro-Kremlin | ddos, defacement | https://t.me/s/killnet_reservs | know username : Raty’s - real name : Arseni Yeliseyeu
-| DarkSide | Russia | | |
+| DarkSide | Russia | mutiple occidental countries | Financial ? Russian intelligence with peuso-code of ethics | REvil ransomware, dataleaks | 
 | BlackDragonSec | India | Indonesia | offensive security operations all across the globe | ddos | 	https://blackdragonsec.org/
 | Kingsman | | | |
 | Volt Typhoon | China | US | Chinese cyber operation team, spying | exploit on unpatched network devices

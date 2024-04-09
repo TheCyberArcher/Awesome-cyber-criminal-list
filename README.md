@@ -58,6 +58,7 @@ More information about CTI : [awesome-threat-intelligence](https://github.com/hs
 | Group | Country | Know impacted Target | Motivation | Method - signature | Channels | More infos |
 | --- | --- |--- | --- | --- | --- | --- |
 | CONTI | russia | multiple | cyber-terrorism, financial motivation | ransomware (Ryuk usage), dataleaks, phishing, RDP hacking | Rocket.Chat usage |
+| THE GLORIAMIST | possible french hacking | | | | https://t.me/s/GLORIAMISTS
 | LAPSUS$ | | Government, tech compagny| financial motivation | social engineering, MFA fatigue, ransomware, exploits | https://t.me/minsaudebr https://t.me/s/GroupLapsus
 | ARES | | | | Ares Rootkit, Trojan |
 | TheLulzsec | | | not defined, new group | | https://t.me/s/thelulzsec https://t.me/s/LulzSec_Off
